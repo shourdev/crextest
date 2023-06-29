@@ -1,0 +1,9 @@
+cout: "Welcome to calc"
+var num = ""
+var num2 = ""
+cout: "Enter first number:"
+cin: num
+cout: "Enter second number:"
+cin: num2
+var sum = add:num,num2
+cout: sum
